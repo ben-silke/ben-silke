@@ -14,3 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# 🔭 About Me:
+I am currently a Senior Full-Stack Software Develop at Aristotle cloud services working with Django, Python and Vue.
+
+I am also working on various bioinformatic projects! I am interested in evolution, mutation, cell regulation and protein synthesis.
+
+I am very familiar with Python, R, Bash and Javascript, and I am currently learning Rust.
+I am open to collaborate on any bioinformatics related projects.
+
+📫 bensilke@icloud.com
