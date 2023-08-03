@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 I am currently a Senior Full-Stack Software Developer at Aristotle Cloud Services working with Django, Python and Vue.
 
 I am also working on various bioinformatic projects! I am interested in evolution, mutation, cell regulation and protein synthesis.
-I am also interested in transcriptomics and spatial-omics.
+I am also interested in transcriptomics and spatial-omics. I am also interested in split bioinformatic and wet lab focused biology.
 
 I am very familiar with Python, R, Bash and Javascript, and I am currently learning Rust.
 I am open to collaborate on any bioinformatics related projects.
