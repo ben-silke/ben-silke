@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 
 # 🔭 About Me:
 I am currently a Senior Full-Stack Software Developer at Aristotle Cloud Services working with Django, Python and Vue.
+I am also undertaking my honours year at the Australian National University in the Williams lab looking at engineering resistance to disease in plants using new technologies.
 
 I am also working on various bioinformatic projects! I am interested in evolution, mutation, cell regulation and protein synthesis.
 I like transcriptomics and spatial-omics and would love to work in split bioinformatic and wet-lab focused biology.
