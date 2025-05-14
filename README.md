@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 # 🔭 About Me:
 I am currently a Senior Full-Stack Software Developer at Aristotle Cloud Services working with Django, Python and Vue.
-I have graduated from a Bacherlor of Laws (Honours) and a Bachelor of Science (Honours) with First Class Honours at the Australian National University, where I worked in the Williams lab and investigated engineering resistance to disease in plants.
+I have graduated from a Bachelor of Laws (Honours) and a Bachelor of Science (Honours) with First Class Honours at the Australian National University, where I worked in the Williams lab and investigated engineering resistance to disease in plants.
 
 I am also working on various bioinformatic projects! I am interested in evolution, mutation, cell regulation and protein synthesis.
 I like transcriptomics and spatial-omics and would love to work in split bioinformatic and wet-lab focused biology.
