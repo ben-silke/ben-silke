@@ -20,11 +20,6 @@ I have graduated from a Bachelor of Laws (Honours) and a Bachelor of Science (Ho
 
 I am also working on various bioinformatic projects! I am interested in evolution, mutation, cell regulation and protein synthesis.
 I like transcriptomics and spatial-omics and would love to work in split bioinformatic and wet-lab focused biology.
-Recently, I have begun looking into protein structure prediction, specifically, de novo prediction.
-
-I have a high level of fluency in Python, R, Bash and Javascript; I am also currently learning Rust.
-I am open to collaborate on any bioinformatics-related projects.
-
-I also am passionate about development to use machine learning or other technologies to augment and assist the legal process and improve outcomes for participants of the legal system.
+Recently, I have begun looking into protein structure prediction, specifically, de novo prediction. I also am passionate about development to use machine learning or other technologies to augment and assist the legal process and improve outcomes for often forgotten participants of the legal system.
 
 📫 bensilke@icloud.com
